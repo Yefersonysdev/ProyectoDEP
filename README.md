@@ -33,7 +33,8 @@ Para ejecutar la API en el puerto 8080, sigue los siguientes pasos:
 4. Ejecuta el siguiente comando en la raíz del proyecto:
    `uvicorn main:app --reload --port 8080`
 5. Ahora con [Postman](https://www.postman.com/downloads/) podras consumir la api, como por ejemplo:
-   ![post-pred](assets/image1.png)
+
+   ![post-pred](image1.png)
    ![get-pred](./assets/image2.png)
    ![get-pred](./assets/image2.png)
    ![delete-pred](./assets/image4.png)
